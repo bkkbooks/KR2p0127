@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0127_001.yaml, hash: 'sha256:1c131787d8aca7a5531d58a44fc070ed28e1dcd8e5b84992c3e526f646a543cc'}
+  - {seq: 1, filename: KR2p0127_001.yaml, hash: 'sha256:386fa017b0bb3ec09cc145dd26d8cf12c65508f66dc919d6d291df9b9dc8ac3d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0127_001.markers.yaml, hash: 'sha256:4de0de1e1916325e69c38450d5517376b595c4cd6cf1950b58fcf7efcbfce01d'}
+  - {seq: 1, role: markers, filename: assets/KR2p0127_001.markers.yaml, hash: 'sha256:44b70d09a5325301c46bf0099e8d5e80462b11c6e70cd42ec140fbecc1fff0f8'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,7 +30,4 @@ table_of_contents:
   label: 散見簡牘合輯湖北江陵鳳凰山一六七號漢墓木簡木楬
   type: section
   level: 1
-hash: sha256:776464753eb23614b9d6b4a901887fe473e06266fe5c6613bc32a01faa0f319c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:5a94ee302075a48438314fc25fa8efb6d45f22c119eaa848be877a0569877bd7
